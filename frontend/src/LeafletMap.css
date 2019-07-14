@@ -1,0 +1,14 @@
+.leaflet-container {
+    height: 500px;
+    width: 800px;
+}
+
+.map {
+    display: flex;
+    flex-direction: column;
+}
+
+.map__status {
+    text-align: center;
+    font-size: 26px;
+}
